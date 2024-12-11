@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./App.css";
 import { Navbar, Brand, CTA, Feature } from "./components";
 import {
   Footer,
