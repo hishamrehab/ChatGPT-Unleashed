@@ -75,7 +75,7 @@
   align-items: flex-end;
   flex-direction: column;
   text-align: end;
-  background: var(--color-footer);
+  background: var(--color-blog);
   padding: 2rem;
   position: absolute;
   right: 0;
